@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@GabrielPacco 
-kautukkundan
-/
-Awesome-Profile-README-templates
-Public
-Code
-Issues
-13
-Pull requests
-46
-Actions
-Projects
-Wiki
-Security
-Insights
-Awesome-Profile-README-templates/dynamic-realtime/Shreya549.md
-@Shreya549
-Shreya549 Shreya549 readme added (#303)
-…
-Latest commit 73ac6ef on 1 Oct 2020
- History
- 1 contributor
-130 lines (107 sloc)  3.99 KB
-   
 ### Hello World, I'm Shreya :purple_heart:
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
