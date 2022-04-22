@@ -118,7 +118,7 @@
 <a href="https://www.facebook.com/gabriel.pacco.3">
   <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.hackerrank.com/shreyachatterje2">
+<a href="https://www.hackerrank.com/gpaccohu">
   <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
