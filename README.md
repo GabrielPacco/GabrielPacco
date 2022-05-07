@@ -1,3 +1,6 @@
+<a href='https://postimg.cc/NKc6tqdm' target='_blank'><img src='https://i.postimg.cc/NKc6tqdm/CArpincho.jpg' border='0' width="500" alt='CArpincho'/></a>
+
+
 ### Hello World, I'm Gabriel :purple_heart:
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
@@ -43,7 +46,7 @@
 </tbody>
 </table>
 
-<a href='https://postimg.cc/NKc6tqdm' target='_blank'><img src='https://i.postimg.cc/NKc6tqdm/CArpincho.jpg' border='0' width="500" alt='CArpincho'/></a>
+
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
