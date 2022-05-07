@@ -1,4 +1,4 @@
-<a href='https://postimg.cc/NKc6tqdm' target='_blank'><img src='https://i.postimg.cc/NKc6tqdm/CArpincho.jpg' border='0' width="500" alt='CArpincho'/></a>
+[url=https://postimg.cc/NKc6tqdm][img]https://i.postimg.cc/NKc6tqdm/CArpincho.jpg[/img][/url]
 
 
 ### Hello World, I'm Gabriel :purple_heart:
