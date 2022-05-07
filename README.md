@@ -43,7 +43,7 @@
 </tbody>
 </table>
 
-<a href='https://postimg.cc/NKc6tqdm' target='_blank'><img src='https://i.postimg.cc/NKc6tqdm/CArpincho.jpg' border='0' alt='CArpincho'/></a>
+<a href='https://postimg.cc/NKc6tqdm' target='_blank'><img src='https://i.postimg.cc/NKc6tqdm/CArpincho.jpg' border='1' alt='CArpincho'/></a>
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
