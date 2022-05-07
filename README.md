@@ -43,7 +43,7 @@
 </tbody>
 </table>
 
-[![CArpincho.jpg, width="375"](https://i.postimg.cc/8zFthTWK/CArpincho.jpg)](https://postimg.cc/NKc6tqdm) 
+<a href='https://postimg.cc/NKc6tqdm' target='_blank'><img src='https://i.postimg.cc/NKc6tqdm/CArpincho.jpg' border='0' alt='CArpincho'/></a>
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
