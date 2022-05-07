@@ -43,7 +43,7 @@
 </tbody>
 </table>
 
-[![CArpincho.jpg](https://i.postimg.cc/8zFthTWK/CArpincho.jpg)](https://postimg.cc/NKc6tqdm) width="375"
+[![CArpincho.jpg, width="375"](https://i.postimg.cc/8zFthTWK/CArpincho.jpg)](https://postimg.cc/NKc6tqdm) 
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
