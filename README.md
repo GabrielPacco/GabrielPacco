@@ -43,22 +43,7 @@
 </tbody>
 </table>
 
-- **Data Science**
-  - Data Visualization
-  - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+[![CArpincho.jpg](https://i.postimg.cc/8zFthTWK/CArpincho.jpg)](https://postimg.cc/NKc6tqdm)
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
