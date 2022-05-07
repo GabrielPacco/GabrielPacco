@@ -1,4 +1,4 @@
-[url=https://postimg.cc/NKc6tqdm][img]https://i.postimg.cc/NKc6tqdm/CArpincho.jpg[/img][/url]
+[CArpincho.jpg](https://postimg.cc/NKc6tqdm)
 
 
 ### Hello World, I'm Gabriel :purple_heart:
